@@ -2,3 +2,4 @@ this is git content
 aaaaaaaaaaaa
 new a line
 hello
+0524 new line

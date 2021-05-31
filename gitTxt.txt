@@ -5,4 +5,4 @@ hello
 0524 new line
 new an new again
 fast branch 
-FAST
+fast2

@@ -1,9 +1,1 @@
-this is git content 
-aaaaaaaaaaaa
-new a line
-hello
-0524 new line
-new an new again
-fast branch 
-fast2
-ff
+0622 content
